@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Excersice-ListView</string>
+    <string-array name="team">
+        <item>Mohit</item>
+        <item>Rahul</item>
+        <item>Sagar</item>
+    </string-array>
+</resources>
